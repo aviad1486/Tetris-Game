@@ -17,7 +17,8 @@ To run the game locally, you'll need to have Python installed on your machine. F
 
 
    
-   ![image](https://github.com/user-attachments/assets/8f30b59f-0d36-4671-8cbe-715ec302f3e8)
+   ![image](https://github.com/user-attachments/assets/eca506c3-2e4c-4e7a-9ca2-9dccd615afd2)
+
 
 4) Install Pygame library:
  
@@ -25,14 +26,16 @@ To run the game locally, you'll need to have Python installed on your machine. F
 
 
 
-   ![image](https://github.com/user-attachments/assets/5badcfa5-5466-488b-bca3-fd24db8c7139)
+   ![image](https://github.com/user-attachments/assets/208d2d6e-d35a-4556-9758-8f22110fdf20)
+
 
 6) Run the game:
 
    python main.py
 
 
-   ![image](https://github.com/user-attachments/assets/3088b048-6fb8-4dce-b27e-e9b246181044)
+   ![image](https://github.com/user-attachments/assets/b38e6d09-c758-436a-b310-5486285ac71c)
+
 
 
 
