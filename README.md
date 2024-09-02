@@ -51,16 +51,24 @@ The web version offers the same gameplay experience as the desktop version.
 
 ## Game Controls
 Move Left: Left Arrow
+
 Move Right: Right Arrow
+
 Rotate Block: Up Arrow
+
 Drop Block Faster: Down Arrow
+
 Pause/Resume Game: P
+
 Reset Game After Game Over: Press any arrow key after the game over screen appears.
 
 ## Features
 Score Tracking: The game tracks your score based on the number of lines cleared and blocks moved down.
+
 Next Block Preview: See which block will appear next, allowing you to strategize your moves.
+
 Pause/Resume: You can pause the game at any time by pressing P, and resume it by pressing P again.
+
 Scoreboard: Keep track of your previous game scores and compare them to your current game.
 
 ## Credits
