@@ -71,5 +71,5 @@ This Tetris game project was created by Aviad Zer in 2024 as a project for 'Adva
 If you have any questions or suggestions, please contact me
 ### aviad1486@gmail.com
 
-![image](https://github.com/user-attachments/assets/1165a83d-6072-4b1f-a8b9-909ece8eb74a)
+![image](https://github.com/user-attachments/assets/f46950b7-16cb-4b3b-96c7-7695a1f471ff)
 
