@@ -17,7 +17,7 @@ To run the game locally, you'll need to have Python installed on your machine. F
 
 
    
-   ![image](https://github.com/user-attachments/assets/eca506c3-2e4c-4e7a-9ca2-9dccd615afd2)
+   ![pic1](Images/pic1.png)
 
 
 4) Install Pygame library:
@@ -26,7 +26,7 @@ To run the game locally, you'll need to have Python installed on your machine. F
 
 
 
-   ![image](https://github.com/user-attachments/assets/208d2d6e-d35a-4556-9758-8f22110fdf20)
+   ![pic2](Images/pic2.png)
 
 
 6) Run the game:
@@ -34,7 +34,7 @@ To run the game locally, you'll need to have Python installed on your machine. F
    python main.py
 
 
-   ![image](https://github.com/user-attachments/assets/b38e6d09-c758-436a-b310-5486285ac71c)
+   ![pic3](Images/pic3.png)
 
 
 
@@ -79,5 +79,5 @@ This Tetris game project was created by Aviad Zer in 2024 as a project for 'Adva
 If you have any questions or suggestions, please contact me
 ### aviad1486@gmail.com
 
-![image](https://github.com/user-attachments/assets/f46950b7-16cb-4b3b-96c7-7695a1f471ff)
+![pic4](Images/pic4.png)
 
