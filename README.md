@@ -76,8 +76,7 @@ This project was developed using the pygame library. Special thanks to all the c
 
 ## About
 This Tetris game project was created by Aviad Zer in 2024 as a project for 'Advanced Programming' Course.
-If you have any questions or suggestions, please contact me
-### aviad1486@gmail.com
+If you have any questions or suggestions, please contact me aviad1486@gmail.com
 
 ![pic4](Images/pic4.png)
 
