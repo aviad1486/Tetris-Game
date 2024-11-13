@@ -79,8 +79,8 @@ This Tetris game project was created by Aviad Zer in 2024 as a project for 'Adva
 If you have any questions or suggestions, please contact me aviad1486@gmail.com
 
 ## Bonus part:
-In this bonus section, we introduce an AI agent implemented with reinforcement learning that plays Tetris on its own, continuously learning to improve its performance.
-check out ther README in 'Tetris-deep-Q-learning-pytorch file for more information.
+In this bonus section, I introduce an AI agent implemented with reinforcement learning that plays Tetris on its own, continuously learning to improve its performance.
+check out the README in 'Tetris-deep-Q-learning-pytorch file for more information.
 In addition you can review this bonus part in zenodo with the trained model in this link:
 https://zenodo.org/records/14050436 
 
