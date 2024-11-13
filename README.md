@@ -84,6 +84,8 @@ check out the README in 'Tetris-deep-Q-learning-pytorch file for more informatio
 In addition you can review this bonus part in zenodo with the trained model in this link:
 https://zenodo.org/records/14050436 
 
+##
+
 
 
 ![pic4](Images/pic4.png)
