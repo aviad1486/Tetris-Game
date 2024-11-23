@@ -48,8 +48,8 @@ class Tetris:
         self.block_size = block_size
 
         # creating an extra board for displaying additional information
-        self.extra_board = np.ones((self.height * self.block_size, self.width * (self.block_size // 2), 3),
-                                   dtype=np.uint8) * np.array([255, 255, 255], dtype=np.uint8)
+        self.extra_board = np.full((self.height * self.block_size, self.width * (self.block_size // 2), 3),
+                                   fill_value=255, dtype=np.uint8)
         self.text_color = (0, 0, 0)
         self.reset()
 
